@@ -1,0 +1,47 @@
+﻿body {
+	background-image: url("konyv6.png");	
+}
+
+#torzs {
+	width: 1000px;
+	height: 570px;
+	margin: auto;
+}
+
+#bal {
+	float: left;
+	width: 450px;
+	height: 520px;
+	background-color: cornsilk;
+	margin-top: 100px;
+}
+
+#jobb {
+	float: right;
+	width: 550px;
+	height: 520px;
+	background-color: #E8F2F7;
+	overflow: scroll;
+	margin-top: 100px;	
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+p{
+	text-align: justify;
+	margin: 20px;
+}
+
+img {
+	width: 200px;
+	border: 2px solid #E8F2F7;
+}
+
+#bekoszono {
+	float: right;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;	
+}	

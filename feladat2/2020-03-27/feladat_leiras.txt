@@ -1,0 +1,19 @@
+Tanulmányozd a minta weblap (orkeny.rar) megoldását, és az ebben megvalósított megoldásokat kell hasznosítani a következõ feladat megoldásában!
+ 
+Készítsd el a mintának (beatles_1.png, beatles_2.png) megfelelõ weblapot. A beatles_1.png a weblap alap képének megjelenését mutatja. A beatles_2.png azt a képét mutatja a weblapnak, ami akkor látszik, amikor a végéig scrollozunk. 
+Instrukciók:
+A html lap neve legyen beatles.html, és a címe is Beatles legyen. A formázásokat külsõ stíluslap haználatával kell megoldania. A CSS fájl neve beatles.css legyen. Legyen beállítva a magyar nyelv és az utf-8 karakterkészlet. A "Beatles" fejléc 1-es szintû címsorral legyen megjelenítve. A képek külön div-ekben legyenek. A "john.jpg" kép ha nem jelenik meg, vagy felé visszük az egérmutatót, akkor a "John Lennon" felirat jelenjen meg. A "paul.jpg" kép ha nem jelenik meg, vagy felé visszük az egérmutatót, akkor a "Paul McCartney" felirat jelenjen meg. A "george.jpg" kép ha nem jelenik meg, vagy felé visszük az egérmutatót, akkor a "George Harrison" felirat jelenjen meg. A "ringo.jpg" kép ha nem jelenik meg, vagy felé visszük az egérmutatót, akkor a "Ringo Starr" felirat jelenjen meg.
+A szöveget a mintának megfelelõen bekezdésekbe kell tagolni. Az alcímet, "A zenéjük stílusa", 2-es szintû címsorral jelenjen meg.
+Az "abbey.jpg" kép ha nem jelenik meg, vagy felé visszük az egérmutatót, akkor a "A Beatles utolsó albuma: Abbey Roads" felirat jelenjen meg. Ahogyan a mintában látszik, a weblap végén el kell helyezni egy linket, amely a weblap elején elhelyezett helyre ugrik.
+
+Instrukciók a formázásra:
+A lap háttérszíne legyen "cornsilk". A "g2.png" kép pedig legyen a háttérkép. A teljes tartalom egy 700 pixel széles és 1130 pixel magas ablakban jelenjen meg, és legyen középre igazítva, a tartalom háttérszínének kódja: #ebebeb.
+
+A fejléc méretei: 700*50 pixel, és a háttérszíne: silver.
+Az "abbey.jpg" kép szélessége legyen 150 pixel, és minden irányban 15 pixel margója legyen. 
+
+A bekezdések sorkizártak legyenek, és 25 pixel margójuk legyen. A képek 100%-ban töltsék ki a div-et, amelyben elhelyezted. 
+A szöveges tartalomnál töröld ez elõzõleg kiadott float-ot a clear: both tulajdonság beállítás használatával. Legyen a szöveges tartalomra általánosan beállítva 15 pixel margó, és a méretei 700*520 legyen.
+
+Ha valamire nincs külön instrukció, akkor azt a mintából kell kikövetkeztetni, illetve a mintapélda megoldásaiból kell átvenni a megfelelõ megoldásokat. Végül a w3schools weboldalon is kutathatsz, hogy minél jobb megoldás szülessen.  
+Beadandó az elkészített beatles.html és beatles.css fájlok.  

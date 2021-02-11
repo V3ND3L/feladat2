@@ -1,0 +1,35 @@
+#tartalom{
+    width: 700px;
+    margin: 0 auto;
+}
+body{
+    background-image: url(../g2.png);
+    background-color: #ebebeb;
+}
+h1{
+    text-align: center;
+}
+#img1{
+  float: left;
+  width: 250px;
+  margin-right: 100px;
+  margin-bottom: 15px;
+}
+#img2{
+  float: left;
+  width: 250px;
+  margin-left: 100px;
+  margin-bottom: 15px;
+}
+#img3{
+  float: right;
+  width: 250px;
+  margin-left: 100px;
+  margin-top: 15px;
+}
+#img4{
+    float: right;
+    width: 250px;
+    margin-right: 100px;
+    margin-top: 15px;
+}
